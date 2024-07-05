@@ -41,6 +41,7 @@ Show ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 
 **How to Use**
+
 Download the Excel file from this repository.
 
 Open the file using Excel or any compatible spreadsheet software.
