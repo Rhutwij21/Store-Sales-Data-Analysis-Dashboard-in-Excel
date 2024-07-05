@@ -2,7 +2,8 @@
 
 This repository contains an Excel-based data analysis report for Vrinda Store. The analysis includes various aspects of the store's sales and order data, visualized through multiple sheets in the Excel file.
 
-**Sheets Overview**
+
+#**Sheets Overview**
 
 Vrinda Store Report: This sheet contains the main report, summarizing the key findings and insights.
 
@@ -21,7 +22,8 @@ Channels: Sales data segmented by different sales channels.
 Vrinda Store Data: The raw dataset used for analysis.
 
 
-**Key Insights**
+
+#**Key Insights**
 
 Women are more likely to buy compared to men (~65%).
 
@@ -31,10 +33,12 @@ The adult age group (30-49 years) is the most significant contributor to sales (
 
 Amazon, Flipkart, and Myntra are the primary sales channels, contributing (~80%).
 
-**Final Conclusion to Improve Vrinda Store Sales**
+
+#**Final Conclusion to Improve Vrinda Store Sales**
 
 Target women customers of age group 30-49 years living in Maharashtra, Karnataka, and Uttar Pradesh.
 Show ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
 
 **How to Use**
 Download the Excel file from this repository.
