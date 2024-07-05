@@ -13,14 +13,17 @@ Age And Gender: Breakdown of sales by age and gender.
 Channels: Sales data segmented by different sales channels.
 Vrinda Store Data: The raw dataset used for analysis.
 
+**Key Insights**
+
+Women are more likely to buy compared to men (~65%).
+Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing to sales (~35%).
+The adult age group (30-49 years) is the most significant contributor to sales (~50%).
+Amazon, Flipkart, and Myntra are the primary sales channels, contributing (~80%).
+Final Conclusion to Improve Vrinda Store Sales
+Target women customers of age group 30-49 years living in Maharashtra, Karnataka, and Uttar Pradesh.
+Show ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 **How to Use**
-
 Download the Excel file from this repository.
 Open the file using Excel or any compatible spreadsheet software.
 Navigate through the different sheets to explore the data and insights.
-
-**Insights**
-
-The "Order Vs Sale" sheet shows the monthly performance of sales and the number of orders.
-Further analysis is available comparing sales between different demographics and channels.
